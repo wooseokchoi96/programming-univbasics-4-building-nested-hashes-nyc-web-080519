@@ -20,7 +20,7 @@ def monopoly_with_third_tier
       names: {
         reading_railroad: {},
         pennsylvania_railroad: {},
-        b_and_o_railraod: {},
+        b_and_o_railroad: {},
         shortline: {}
       },
       rent_in_dollars: {
@@ -44,7 +44,7 @@ def monopoly_with_fourth_tier
         pennsylvania_railroad: {
           mortgage_value: '$200'
         },
-        b_and_o_railraod: {
+        b_and_o_railroad: {
           mortgage_value: '$400'
         },
         shortline: {
